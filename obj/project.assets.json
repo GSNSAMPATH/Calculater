@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\4th year\\Outher\\Aplication_Development\\Test\\new_App\\new_App.csproj",
-      "projectName": "new_App",
-      "projectPath": "F:\\4th year\\Outher\\Aplication_Development\\Test\\new_App\\new_App.csproj",
+      "projectUniqueName": "F:\\4th year\\Outher\\Aplication_Development\\Test\\new_App\\CalculatorApp.csproj",
+      "projectName": "CalculatorApp",
+      "projectPath": "F:\\4th year\\Outher\\Aplication_Development\\Test\\new_App\\CalculatorApp.csproj",
       "packagesPath": "C:\\Users\\sumal\\.nuget\\packages\\",
       "outputPath": "F:\\4th year\\Outher\\Aplication_Development\\Test\\new_App\\obj\\",
       "projectStyle": "PackageReference",

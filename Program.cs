@@ -1,4 +1,4 @@
-namespace new_App;
+namespace CalculatorApp;
 
 static class Program
 {
